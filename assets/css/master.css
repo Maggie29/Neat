@@ -1,0 +1,19 @@
+body{
+  height: 100%;
+  font-size: 14px;
+}
+
+.section-hello{
+    height: 600px;
+    background-color: #9ACCEF;
+    position: relative;
+    overflow: hidden;
+}
+
+.logo img{
+  width: 90px;
+  height: 45px;
+}
+.list{
+  list-style: none;
+}
