@@ -2,18 +2,24 @@ body{
   height: 100%;
   font-size: 14px;
 }
+.d-flex{
+  display: flex;
+}
+.just-content-bet{
+  justify-content: space-between;
+}
 
 .section-hello{
     height: 600px;
     background-color: #9ACCEF;
     position: relative;
     overflow: hidden;
+    color: #fff;
 }
-
+header{
+display: inline-block; 
+}
 .logo img{
   width: 90px;
   height: 45px;
-}
-.list{
-  list-style: none;
 }
